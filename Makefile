@@ -1,6 +1,4 @@
 # Copyright (c) 2014-2019, AEON, The Monero Project 
- Copyright (c) 2022, Royal 
- # Copyright (c) 2022, Royal 
 # Copyright (c) 2022, Royal
 #
 # All rights reserved.
